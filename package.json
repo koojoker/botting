@@ -1,0 +1,14 @@
+{
+  "name": "joker-pit-bots",
+  "version": "2.1.0",
+  "description": "Hypixel Pit Bots",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.0.0",
+    "proxy-agent": "^6.5.0",
+    "vec3": "^0.1.9"
+  }
+}
