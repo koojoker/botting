@@ -1,0 +1,21 @@
+reference
+https://youtu.be/JZqAXCmHRno?si=7zYMHXXlofrPtCP8
+
+Workflow:
+Auth bot(s) first, make sure everything is fine (DONE)
+Start to log in bots (DONE)
+Find to start spamming /play pit (at a 10s cd) to find the targets ign
+From here on, the gui should be a constantly refreshing screen (1 fps) 
+It should look like..
+Bots dashboard
+--------------------------------------
+Bot1 - swapping lobbies... (yellow)
+Bot2 - found target ($target)! (Green)
+Bot3 - failed to swap lobbies... retrying in 10 seconds (red)
+Bot 4 - finding target... (yellow)
+Bot 5 - READY (green)
+And the statuses should be refresh every second, until everyone is at ready ofc
+And the user can still type in commands 
+(readline) and the refreshing shouldn't reset the enter prompt too
+Drop <amount> to make the number of silent bots to drop in mid and do stuff (this will be made later!!)
+report <user> spam report the target user on all accounts
