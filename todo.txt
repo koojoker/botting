@@ -4,7 +4,7 @@ https://youtu.be/JZqAXCmHRno?si=7zYMHXXlofrPtCP8
 Workflow:
 Auth bot(s) first, make sure everything is fine (DONE)
 Start to log in bots (DONE)
-Find to start spamming /play pit (at a 10s cd) to find the targets ign
+Find to start spamming /play pit (at a 10s cd) to find the targets ign (DONE)
 From here on, the gui should be a constantly refreshing screen (1 fps) 
 It should look like..
 Bots dashboard
